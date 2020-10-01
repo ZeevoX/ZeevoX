@@ -1,4 +1,4 @@
-<img alt="Timothy Langer's GitHub stats" align="right" src="https://github-readme-stats.vercel.app/api?username=ZeevoX&hide_border=true&hide_title=true&show_icons=true">
+<img alt="Timothy Langer's GitHub stats" align="right" src="https://github-readme-stats.vercel.app/api?username=ZeevoX&hide_border=true&hide_title=true&show_icons=true&count_private=true">
 
 ### Hi there 👋
 
