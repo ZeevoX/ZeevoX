@@ -11,4 +11,4 @@
 
 I'm a student from London studying chemistry and computer science! I love open sourcing my code. You can track my progress in [learning C#](https://github.com/ZeevoX/Elasmobranch) or head on over to [my website](https://zeevox.net). 
 
-_Having been on GitHub for **6** years, I've opened **79** issues and submitted **39** pull requests, made **764** commits and contributed to **10** public repositories._
+_Having been on GitHub for **6** years, I've opened **79** issues and submitted **39** pull requests, made **765** commits and contributed to **10** public repositories._
